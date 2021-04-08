@@ -1,6 +1,3 @@
 #ignore all .a and .o files as well as everything that ends with ~
 *.[oa]
 *~
-
-#ignore all .pdf files
-*.pdf
